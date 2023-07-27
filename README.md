@@ -8,7 +8,8 @@
 # Introduction
 Hello, I am Brayan, a junior data scientist. I have always been fascinated by the field of data science and the power it holds in predicting and analyzing various aspects of our world.
 
-#Area of a Triangle
+# Area of a Triangle
+
 In this Jupyter Notebook, I have included a simple Python function to calculate the area of a triangle. The function takes the base and height of the triangle as inputs and returns the calculated area. Let's try it out:
 
 ```
