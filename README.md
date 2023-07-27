@@ -1,9 +1,9 @@
 # My Jupyter Notebook on IBM Watson Studio
 
 ## About Me
-Name: Brayan D. Hernandez
-Profession: Junior Data Scientist
-GitHub: BrayanDH
+- Name: Brayan D. Hernandez
+- Profession: Junior Data Scientist
+- GitHub: BrayanDH
 
 # Introduction
 Hello, I am Brayan, a junior data scientist. I have always been fascinated by the field of data science and the power it holds in predicting and analyzing various aspects of our world.
@@ -16,7 +16,9 @@ def area_triangulo(base, altura):
     return base * altura / 2
 ```
 
-```area_triangulo(5, 6)```
+```
+area_triangulo(5, 6)
+```
 
 
 The above code will calculate the area of a triangle with a base of 5 and height of 6, and the result will be 15.0.
